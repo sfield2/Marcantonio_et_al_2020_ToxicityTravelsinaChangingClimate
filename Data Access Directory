@@ -1,0 +1,21 @@
+4 data sets were used in the analyses of Marcantonio_et_al_2019:
+
+# For Primary Analysis 
+Contamined sites <- downloaded at "https://ofmpub.epa.gov/apex/cimc/f?p=CIMC:LIST:0:::35:P35_BF_ASSESS_IND,P35_BF_ASSESS_PILOT_IND,P35_BF_CLEANUP_IND,P35_BF_RLF_IND,P35_BF_RLF_PILOT_IND,P35_BF_128A_IND,P35_BF_TBA_IND,P35_FF_BRAC_IND,P35_FF_RCRA_IND,P35_FF_SF_IND,P35_RCRA_CURRENT_IND,P35_RCRA_REMEDY_SEL_IND,P35_RCRA_CONSTR_COMPLT_IND,P35_RCRA_REMEDY_COMPLT_IND,P35_RCRA_REMEDY_NYS_IND,P35_SF_NPL_CODE,P35_SF_NPL_CODE_F,P35_SF_NPL_CODE_D,P35_STIMULUS_SF_IND,P35_STIMULUS_BF_IND,P35_postal_code,P35_BASIC_QUERY:Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,P,F,D,Y,Y,National"
+                      # List results filtered by all Brownfield, RCRA, and Superfund NPL Sites that have corrective action or grant allocations (does not include deleted sites)
+UAA Social and CLimate Indeces/Data <- downloaded at "https://gain-uaa.nd.edu/"
+                      # Link embedded in "get up to speed" at bottom of webpage
+                      # Includes social data
+UAA Spatial Data <- dowloaded at "uaa_index" 
+                      # Includes census tract boundaries of all UAA ND Gain considered citites
+                      # Requires permission, contact "ndgain@nd.edu"
+National Census Tract Spatial Data <- downloaded at "https://www.census.gov/geographies/mapping-files.html"                  
+  
+# For Houston Case Study 
+Flood_boundaries <- downloaded at the following sites 
+                      "https://data.femadata.com/FIMA/NHRAP/Harvey/"
+                      # download single shapefile of inundation through "inundation boundary" link
+                      "https://www.sciencebase.gov/catalog/item/5a85f30fe4b00f54eb36d3a9"
+                      # multiple files documenting inundation are provided through this link
+                      # we used only those from the San Jacinto and Upper Brazos rivers 
+                      # single FEMA shapefile merged with two (San Jacinto and Upper Brazos) Science Base shapefiles in QGIS to construct entire inundation extent over Houston  
