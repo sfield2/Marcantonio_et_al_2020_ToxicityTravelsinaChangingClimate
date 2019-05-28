@@ -2,7 +2,7 @@
 
 ## May 28, 2016
 
-This directory contains code written in R for all analyses reported in
+This directory contains code written in R for all analyses, and a directory for all data used, in:
 
 R. Marcantonio, S. Field, P. Regan. 2019. Toxicity Travels. Submitted to the Journal of Global Environmental Change.
 
