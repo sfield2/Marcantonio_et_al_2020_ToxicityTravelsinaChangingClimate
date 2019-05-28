@@ -4,7 +4,7 @@
 
 This directory contains code written in R for all analyses, and a directory for all data used, in:
 
-R. Marcantonio, S. Field, P. Regan. 2019. Toxicity Travels. Submitted to the Journal of Global Environmental Change.
+R. Marcantonio, S. Field, P. Regan. 2019. Toxicity Travels In A Changing Climate. Submitted to the Journal of Global Environmental Change.
 
 #### Data Download 
 Directory for data used in this research is provided in READ ME file entitled "Data Access Directory"
