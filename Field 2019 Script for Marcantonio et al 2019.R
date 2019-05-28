@@ -1,6 +1,5 @@
-### Script for all anlyses reported in
-### R. Marcantonio, S. Field, P. Regan. 2019. 
-### Toxcity Travels. Submitted to the Journal of Global Enviornmental Change
+### Script for all anlyses written by Sean Field M.A., reported in
+### R. Marcantonio, S. Field, P. Regan. 2019. Toxcity Travels In A Changing Climate. Submitted to the Journal of Global Enviornmental Change
 
 
 ############# REQUIRED LIBRARIES ################
