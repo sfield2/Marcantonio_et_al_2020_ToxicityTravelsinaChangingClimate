@@ -14,8 +14,8 @@ National Census Tract Spatial Data <- downloaded at "https://www.census.gov/geog
 # For Houston Case Study 
 Flood_boundaries <- downloaded at the following sites 
                       "https://data.femadata.com/FIMA/NHRAP/Harvey/"
-                      # download single shapefile of inundation through "inundation boundary" link
+                      # Download single shapefile of inundation through "inundation boundary" link
                       "https://www.sciencebase.gov/catalog/item/5a85f30fe4b00f54eb36d3a9"
-                      # multiple files documenting inundation are provided through this link
-                      # we used only those from the San Jacinto and Upper Brazos rivers 
-                      # single FEMA shapefile merged with two (San Jacinto and Upper Brazos) Science Base shapefiles in QGIS to construct entire inundation extent over Houston  
+                      # Multiple files documenting inundation are provided through this link
+                      # We used only those from the San Jacinto and Upper Brazos rivers 
+                      # Single FEMA shapefile merged with two (San Jacinto and Upper Brazos) Science Base shapefiles in QGIS to construct entire inundation extent over Houston  
