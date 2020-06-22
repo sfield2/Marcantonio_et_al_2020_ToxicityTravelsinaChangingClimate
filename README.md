@@ -12,4 +12,7 @@ Directory for data used in this research is provided in file entitled "DATA ACCE
 #### Analysis
 Script used for analysis is an R script, entitled "ANALYSIS", and contains all necessary commands for the replication of our analyses
 
+### Supplemental Files
+For supplemental material regarding the number of populations at high-risk of flood and potential risk of flood-born contaminates, see "Supplemental File Population at Risk in US Cities.pdf".
+
 If you have questions, email Sean Field (sfield2@nd.edu)
